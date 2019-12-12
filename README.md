@@ -1,8 +1,10 @@
 # FlutterLession
 这是一套flutter学习教程 前期是dart教程 后期是flutterUI组件学习
 学习flutter 首先学习dart 
-<h2>只要功夫深，铁棒磨成针 加油</h2>
-<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/dart/lession01">Dart 第一节 Dart介绍 Win Mac上面分别搭建Dart环境  开发工具配置 以及运行Dart</a>
+
+<h2>♥♥♥现在遇到的问题都是未来新岗位薪资的砝码♥♥♥ 加油</h2>
+
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/dart/lession01">Dart 第一节 Dart介绍 Win Mac上面分别搭建Dart环境  开发工具配置 以及运行Dart</a><br>
 
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/dart/lession02">Dart 第二节Dart 入口方法介绍 Dart打印 Dart注释  Dart变量 常量申明 变量命名规则</a>
 
@@ -30,3 +32,5 @@
 
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/dart/lession14">Dart 第十四节 Dart中的库 自定义库、系统库、第三方库</a>
 
+<h4>WeChat</h4>
+![image](https://github.com/wjx1018960145/image/blob/master/WechatIMG196.jpeg)

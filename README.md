@@ -37,6 +37,10 @@
 
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession01" >第一节 Flutter目录结构介绍、入口、自定义Widget、Center组件、Text组件、MaterialApp组件、Scaffold组件</a>
 
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession02" >第二节 Flutter Container组件、Text组件</a>
+
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession03" >第三节 Flutter 图片组件Image 、本地图片、远程图片、图片剪切</a>
+
 <h4>WeChat</h4>
 
 ![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG246.png)

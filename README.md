@@ -33,4 +33,5 @@
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/dart/lession14">Dart 第十四节 Dart中的库 自定义库、系统库、第三方库</a>
 
 <h4>WeChat</h4>
-![Image](https://github.com/wjx1018960145/image/blob/master/WechatIMG196.png)
+
+![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG196.png)

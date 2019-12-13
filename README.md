@@ -34,4 +34,4 @@
 
 <h4>WeChat</h4>
 
-![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG196.png)
+![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG246.png)

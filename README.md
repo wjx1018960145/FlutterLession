@@ -81,6 +81,15 @@
 
 <h2>完毕</h2>
 
+<h2>知识点</h2>
+
+
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession23" > Flutter学习之 实现下拉刷新和上拉加载 </a>
+
+
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession24" > Flutter学习之 http网络请求 </a>
+
+
 <h4>WeChat</h4>
 
 ![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG246.png)

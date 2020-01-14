@@ -89,6 +89,8 @@
 
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession24" > Flutter学习之 http网络请求 </a>
 
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession25" > Flutter学习之 本地简单数据持久化 </a>
+
 
 <h4>WeChat</h4>
 

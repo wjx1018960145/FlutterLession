@@ -92,6 +92,10 @@
 <a href="https://github.com/wjx1018960145/FlutterLession/tree/master/FlutterUI/lession25" > Flutter学习之 本地简单数据持久化 </a>
 
 
+<h2>综合实例</h2>
+
+<a href="https://github.com/wjx1018960145/FlutterLession/tree/master/Demo/flutter" > 综合实例 </a>
+
 <h4>WeChat</h4>
 
 ![Image](https://github.com/wjx1018960145/FlutterLession/blob/master/images/WechatIMG246.png)
